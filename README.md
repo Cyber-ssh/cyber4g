@@ -4,5 +4,5 @@
 
 
 ```
-apt install wget -y; bash <(wget -qO- raw.githubusercontent.com/Cyber-ssh/cyber4g/main/instcheck.sh)
+apt install wget -y; bash <(wget -qO- raw.githubusercontent.com/Cyber-ssh/checkUser-4G/main/instcheck.sh) && chuser
 ```
